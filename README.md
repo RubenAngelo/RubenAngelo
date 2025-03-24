@@ -29,3 +29,5 @@
   ##
 
 [![Saiph Walker](https://github-readme-stats.vercel.app/api/pin/?username=rubenangelo&repo=saiph_walker&theme=neon)](https://github.com/RubenAngelo/saiph_walker)
+
+![Snake animation](https://github.com/RubenAngelo/RubenAngelo/blob/output/github-contribution-grid-snake.svg)
