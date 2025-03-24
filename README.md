@@ -38,7 +38,7 @@
 
   ##
 
-[![Saiph Walker](https://github-readme-stats.vercel.app/api/pin/?username=rubenangelo&repo=saiph_walker&theme=panda)](https://github.com/RubenAngelo/saiph_walker)
+[![Saiph Walker](https://github-readme-stats.vercel.app/api/pin/?username=rubenangelo&repo=saiph-walker&theme=panda)](https://github.com/RubenAngelo/saiph-walker)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RubenAngelo/RubenAngelo/output/github-contribution-grid-snake-dark.svg">
