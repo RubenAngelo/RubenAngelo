@@ -1,33 +1,47 @@
-## Iae!!! Meu nome é Ruben, seja bem vindo!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff7bc6&center=true&vCenter=true&random=false&width=524&lines=Iae!!!+Meu+nome+é+Ruben,+seja+bem+vindo!" alt="Typing SVG">
+  </a>
+</div>
+
+##
 
 - 🔭 Hoje trabalho com fluxos de dados em tempo real e APIs
 - 🌱 Estudando python
-- 📫 Email para contato: ruben.a.angelo@gmail.com e [linkedin](https://www.linkedin.com/in/ruben-adriel-angelo-gomes/)
 - 😄 Ele/Dele
 - ⚡ Sou 3 dias mais velho que o album Bless the Martyr and Kiss the Child, da banda norma jean
 
 ##
 
 <a href="https://github.com/RubenAngelo/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rubenangelo&theme=neon" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rubenangelo&theme=panda" />
 </a>
 <a href="https://github.com/RubenAngelo/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenangelo&layout=donut&theme=neon" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenangelo&layout=donut&theme=panda" />
 </a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  ##
+
+<img align="right" alt="" height="190px" src="">
+
+<h3 align="left">Minhas redes</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ff7bc6&color=black)](mailto:ruben.a.angelo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=FF00F6&color=black)](https://www.linkedin.com/in/ruben-adriel-angelo-gomes/)
+
+<h3 align="left">Minhas Stacks</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
 </div>
 
   ##
 
-<div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![Saiph Walker](https://github-readme-stats.vercel.app/api/pin/?username=rubenangelo&repo=saiph_walker&theme=panda)](https://github.com/RubenAngelo/saiph_walker)
 
-  ##
-
-[![Saiph Walker](https://github-readme-stats.vercel.app/api/pin/?username=rubenangelo&repo=saiph_walker&theme=neon)](https://github.com/RubenAngelo/saiph_walker)
-
-![Snake animation](https://github.com/RubenAngelo/RubenAngelo/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RubenAngelo/RubenAngelo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RubenAngelo/RubenAngelo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RubenAngelo/RubenAngelo/output/github-contribution-grid-snake.svg">
+</picture>
