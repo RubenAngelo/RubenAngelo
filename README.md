@@ -22,7 +22,7 @@
 
   ##
 
-<img align="right" alt="" height="190px" src="">
+<img align="right" alt="" height="190px" src="./src/slipknot_head_banging.gif">
 
 <h3 align="left">Minhas redes</h3>
 
